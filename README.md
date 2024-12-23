@@ -23,7 +23,7 @@ Project structure
 	app.py
 
 
-Accuracies are displayed while executing the application
-Datasets are taken from the kaggle source
+Accuracies are displayed while executing the application.
+Datasets are taken from the kaggle source.
 To run the program open terminal and enter python app.py command or run app.py.
 Click on the output link after running the program to check with classified results.
